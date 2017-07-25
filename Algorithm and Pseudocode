@@ -1,0 +1,9 @@
+
+Query user for customer number, name, sales amount, and tax code
+Determine tax percentage based on tax code
+	If tax code is 1, percentage is 3% (0.03)
+	If tax code is 2, percentage is 5% (0.05)
+	Otherwise there is no tax (0.00)-assumes input is correct
+Calculate tax amount
+	Sales amount times percentage (0.03, 0.05, or 0.00)
+Print out customer number, name, sales amount, tax, and total

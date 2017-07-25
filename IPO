@@ -1,0 +1,9 @@
+INPUT:							PROCESSING				OUTPUT	
+Request cust number		save custNumber
+Request cust name			save custName
+Request sale amt				save saleAmt
+Request cust tax code		save taxCode
+								determine tax %
+								calculate taxAmt
+															Print out cust number, name, sale amt, tax amt, and total amt
+															
